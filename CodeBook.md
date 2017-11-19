@@ -5,8 +5,8 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 ## Identifiers
 
 * `subject` - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken\
-\
+* `activity` - The type of activity performed when the corresponding measurements were taken
+
 
 ## Measurment information
 The following explanation of the measurment variables is a transcription from the `features_info.txt` file accomaining the dataset.
@@ -22,7 +22,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 All features were normalized by the authors and bounded within [-1,1].
 
-## Measurements\
+## Measurements
 
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
@@ -111,11 +111,11 @@ All features were normalized by the authors and bounded within [-1,1].
 * `angleYgravityMean`
 * `angleZgravityMean`
 
-## Activity Labels\
-\
-* `WALKING` (value `1`): subject was walking during the test\
-* `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test\
-* `WALKING_DOWNSTAIRS` (value `3`): subject was walking down a staircase during the test\
-* `SITTING` (value `4`): subject was sitting during the test\
-* `STANDING` (value `5`): subject was standing during the test\
-* `LAYING` (value `6`): subject was laying down during the test\
+## Activity Labels
+
+* `WALKING` (value `1`): subject was walking during the test
+* `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
+* `WALKING_DOWNSTAIRS` (value `3`): subject was walking down a staircase during the test
+* `SITTING` (value `4`): subject was sitting during the test
+* `STANDING` (value `5`): subject was standing during the test
+* `LAYING` (value `6`): subject was laying down during the test
